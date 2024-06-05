@@ -2,5 +2,6 @@ pandas
 numpy
 Flask
 ipykernel
-
+seaborn
+matplotlib
 -e .
